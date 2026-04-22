@@ -1,0 +1,33 @@
+{
+  "name": "3d-printing-website",
+  "version": "1.0.0",
+  "description": "A modern e-commerce website for a 3D printing business with a dark fantasy aesthetic.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest",
+    "postcss": "latest",
+    "autoprefixer": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest"
+  },
+  "keywords": [
+    "3D printing",
+    "e-commerce",
+    "fantasy",
+    "website"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
